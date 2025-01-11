@@ -1,0 +1,16 @@
+streamlit
+pandas
+plotly
+numpy
+seaborn
+matplotlib
+streamlit_folium
+streamlit_globe
+folium
+scikit-learn
+tensorflow
+joblib
+python-dotenv
+google.generativeai
+streamlit-option-menu
+statsmodels
